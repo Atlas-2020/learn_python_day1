@@ -1,0 +1,6 @@
+Iphone:{'price':6000,'num':10,'sum':10}
+Ipad:{'price':3800,'num':20,'sum':20}
+Mac book pro:{'price':12800,'num':5,'sum':5}
+Iwatch:{'price':2880,'num':30,'sum':30}
+Itv:{'price':3580,'num':50,'sum':50}
+Starbucks Mocha:{'price':41,'num':1000,'sum':1000}
